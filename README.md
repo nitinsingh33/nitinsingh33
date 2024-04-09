@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin Singh
-- 👀 I’m interested in Computer Science & Data Science
-- 🌱 I’m currently learning Programming languages
+- 👀 I’m interested in AI Gen engineering.
+- 🌱 I’m currently working on Data Analysis & machine learning technologies.
 - 📫 How to reach me nitinsinghfb3@gmail.com
 
 <!---
