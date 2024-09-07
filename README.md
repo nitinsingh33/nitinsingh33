@@ -1,9 +1,17 @@
 ![gitartwork](gitartwork.svg)
 
-<h1 align="center">Hi 👋, I'm Nitin Singh</h1>
-<h3 align="center">Driven Software Development Enthusiast Eager to Innovate and Excel</h3>
+<h1 align="center">Hi👋, I'm Nitin Singh</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&width=435&lines=CS+%26+Data+Analysis++Student+IIT-Patna;Transforming+Data+into+Insights;Aspiring+Machine+Learning+Engineer+" alt="Typing SVG" /></a>
+</p>
 <img align="right" width="400" alt="coding"  src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=0e75b6&style=fla" alt="nitinsingh33" /> </p>
+
+- 🔭 I’m currently working on **Open-source projects**
+
+- 🌱 I’m currently learning **Machine Learning, Scikit-learn, Pytorch**
+
+- 💬 Ask me about **Python, Data Analysis and MERN stack**
 
 - 📫 How to reach me **nitinsingh.iitp@gmail.com**
 
