@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&width=435&lines=CS+%26+Data+Analysis++Student+IIT-Patna;Transforming+Data+into+Insights;Aspiring+Machine+Learning+Engineer+" alt="Typing SVG" /></a>
 </p>
-<img align="right" width="400" alt="coding"  src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
+<img align="right" width="400" alt="coding"  src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1730915099~exp=1730918699~hmac=d15c2f2474ac19046acdcac3759dd338b9da67eb655d4920945d0e66b2397fec&w=996"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=0e75b6&style=fla" alt="nitinsingh33" /> </p>
 
 - 🔭 I’m currently working on **Open-source projects**
