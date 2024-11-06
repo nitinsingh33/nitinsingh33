@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh33&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh33&theme=merko)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
