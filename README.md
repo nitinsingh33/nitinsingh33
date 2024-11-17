@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nitinsingh0307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" alt="nitinsingh0307" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nitinsingh33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitinsingh33" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/nitinsingh33" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="tapeshdua420" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitinsingh0307/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="nitinsingh0307" height="40" width="40" /></a>  
+<a href="https://x.com/nitin_folk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="nitin_folk" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/nitinsingh33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitinsingh33" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/nitinsingh33" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="tapeshdua420" height="40" width="40" /></a>
 </p>
 
 <br>
