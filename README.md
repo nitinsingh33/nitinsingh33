@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&width=435&lines=CS+%26+Data+Analysis++Student+IIT-Patna;Transforming+Data+into+Insights;Aspiring+Machine+Learning+Engineer+" alt="Typing SVG" /></a>
 </p>
-<img align="right" width="400" alt="coding"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+<img align="right" width="400" height="400" alt="coding"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=0e75b6&style=fla" alt="nitinsingh33" /> </p>
 
 - 🔭 I’m currently working on **Open-source projects**
@@ -30,17 +30,20 @@
 ## 🛠 Primary Tech Stack
 
 ### Programming Languages
-<a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="50" height="60"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="javascript" width="50" height="50"/> </a>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 
 ### Frontend Development
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png" alt="python" width="50" height="50"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="python" width="50" height="50"/> </a>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend Development
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -53,11 +56,16 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 
 
+### Data Analysis and Machine Learning
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
+### Cloud Hosting
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a>   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/css-3.svg" alt="css" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/withastro/docs/main/public/logos/tailwind.svg" alt="tailwind" width="40" height="35"/> </a>  </p>
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 <br>
