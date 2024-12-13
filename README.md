@@ -7,7 +7,7 @@
 <img align="right" width="400" height="400" alt="coding"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=0e75b6&style=fla" alt="nitinsingh33" /> </p>
 
-- 🔭 I’m currently working on **Open-source projects**
+- 🔭 I’m currently working on **Open-source projects and ML Applications**
 
 - 🌱 I’m currently learning **Machine Learning, Scikit-learn, Pytorch**
 
