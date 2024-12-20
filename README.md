@@ -76,7 +76,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinsingh33&show_icons=true&locale=en" alt="nitinsingh33" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nitinsingh33&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh33&theme=merko)
 
