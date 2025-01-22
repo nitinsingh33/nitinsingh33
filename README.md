@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)
 
-- 📄 Here is my <a href="https://drive.google.com/file/d/1FBEZQP15OBXtnG_NluPjQ1KeJHISsS9x/view?usp=drive_link"> Resume </a>
+- 📄 Here is my <a href=""> Resume </a>
 
   <br>
 
