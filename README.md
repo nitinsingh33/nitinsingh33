@@ -77,7 +77,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinsingh33&show_icons=true&locale=en" alt="nitinsingh33" /></p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nitinsingh33)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nitinsingh33&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh33&theme=merko)
 
