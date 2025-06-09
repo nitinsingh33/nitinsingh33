@@ -16,8 +16,6 @@
 
 - 🧠 Strong interest in Machine Learning and Open Source
 
-- 📈 Goal: Become a Software Development Engineer and land a high-impact tech role
-
 - 📫 How to reach me [nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)
 
 - 📄 Here is my <a href="https://drive.google.com/file/d/1FBEZQP15OBXtnG_NluPjQ1KeJHISsS9x/view?usp=sharing"> Resume </a>
