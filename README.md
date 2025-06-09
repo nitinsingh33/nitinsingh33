@@ -7,11 +7,16 @@
 <img align="right" width="300" height="300" alt="coding"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=brightgreen&style=plastic" alt="nitinsingh33" /> </p>
 
-- 🔭 I’m currently working on **Open-source projects and ML Applications**
 
-- 🌱 I’m currently learning **Machine Learning, Scikit-learn, Pytorch**
+- 🎓 Computer Science & Data Analysis @IIT Patna
 
-- 💬 Ask me about **Python, Data Analysis and MERN stack**
+- 💻 Passionate about Backend Development and Cloud computing
+
+- 🛠️ I am building real-world projects and solving coding challenges in C++
+
+- 🧠 Strong interest in Machine Learning and Open Source
+
+- 📈 Goal: Become a Software Development Engineer and land a high-impact tech role
 
 - 📫 How to reach me [nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)
 
