@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+<!--![gitartwork](gitartwork.svg) -->
 
 <h1 align="center">Hi there👋, I'm Nitin Singh </h1>
 <p align="center">
