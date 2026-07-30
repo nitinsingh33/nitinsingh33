@@ -17,7 +17,7 @@
 - 🛠️ Building real-world projects & solving DSA in **C++**  
 - 🧠 Interested in **Machine Learning & Open Source**  
 - 📫 Reach me at: **[nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)**  
-- 📄 My Resume → <a href="" target="_blank">Click Here</a>
+- 📄 My Resume → <a href="https://drive.google.com/file/d/1upXwrAW5_Un8hXqJy6ohaijT4uFmCtQH/view?usp=drive_link" target="_blank">Click Here</a>
 
 
 ### 🔗 Connect With Me
