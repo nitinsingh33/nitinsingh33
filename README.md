@@ -1,23 +1,26 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&width=415&lines=CS+%26+Data+Analysis+Student+@+IIT+Patna;Backend+Developer+%7C+Cloud+Enthusiast;Aspiring+Machine+Learning+Engineer;Transforming+Data+into+Insights" alt="Typing SVG"/>
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Analytics+%40+IIT+Patna;Former+SWE+Intern+%40+Hero+MotoCorp+(VIDA);Former+Research+Intern+%40+IIT+Jammu;Backend+Engineer+%7C+AI+%26+LLM+Developer;Building+Scalable+Backend+%26+Agentic+AI+Systems" alt="Typing SVG"/>
+ </a>
 </p>
 
-<img align="right" width="300" height="300" alt="coding" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/> 
+<img align="right" width="280" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views"/>
 </p>
 
 
-- 🎓 Computer Science & Data Analysis @ **IIT Patna**  
-- 💻 Passionate about **Backend Development & Cloud Computing**  
-- 🛠️ Building real-world projects & solving DSA in **C++**  
-- 🧠 Interested in **Machine Learning & Open Source**  
-- 📫 Reach me at: **[nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)**  
-- 📄 My Resume → <a href="https://drive.google.com/file/d/1upXwrAW5_Un8hXqJy6ohaijT4uFmCtQH/view?usp=drive_link" target="_blank">Click Here</a>
+- 🎓 B.S. in Computer Science & Data Analytics @ **IIT Patna**
+- 💼 Former **Software Engineering Intern @ Hero MotoCorp (VIDA)**
+- 🔬 Former **Research Intern @ IIT Jammu** (Speech AI & Machine Learning)
+- 💻 Building scalable **Backend Systems, Agentic AI & LLM Applications**
+- 🧠 Interested in **Backend Engineering, Distributed Systems, Machine Learning & RAG**
+- 🌱 Currently learning **NestJS, PostgreSQL, Redis, Docker & System Design**
+- 📫 Reach me at: **[nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)**
+- 📄 Resume → <a href="https://drive.google.com/file/d/1upXwrAW5_Un8hXqJy6ohaijT4uFmCtQH/view?usp=drive_link" target="_blank">Click Here</a>
 
 
 ### 🔗 Connect With Me
