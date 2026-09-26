@@ -1,9 +1,10 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
+
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Analytics+%40+IIT+Patna;Former+SWE+Intern+%40+Hero+MotoCorp+(VIDA);Former+Research+Intern+%40+IIT+Jammu;Backend+Engineer+%7C+AI+%26+LLM+Developer;Building+Scalable+Backend+%26+Agentic+AI+Systems" alt="Typing SVG"/>
- </a>
+<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=FFC23A&center=true&vCenter=true&width=700&lines=Computer+Science+%40+IIT+Patna;Former+SWE+Intern+%40+Hero+MotoCorp+(VIDA);Research+Intern+%40+IIT+Jammu;Backend+Engineering+%7C+AI+%26+LLM+Systems;Building+Backend+%26+Agentic+AI+Systems" alt="Typing SVG"/>
+</a>
 </p>
 
 <img align="right" width="250" alt="coding" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
@@ -12,62 +13,72 @@
   <img src="https://komarev.com/ghpvc/?username=nitinsingh33&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views"/>
 </p>
 
-
-- 🎓 B.S. in Computer Science & Data Analytics @ **IIT Patna**
+- 🎓 B.S. in **Computer Science** @ **IIT Patna**
 - 💼 Former **Software Engineering Intern @ Hero MotoCorp (VIDA)**
-- 🔬 Former **Research Intern @ IIT Jammu** (Speech AI & Machine Learning)
-- 💻 Building scalable **Backend Systems, Agentic AI & LLM Applications**
-- 🧠 Interested in **Backend Engineering, Distributed Systems, Machine Learning & RAG**
-- 🌱 Currently learning **NestJS, PostgreSQL, Redis, Docker & System Design**
+- 🔬 Former **Research Intern @ IIT Jammu** — Speech AI & Machine Learning
+- 💻 Building **Backend Systems, Agentic AI & LLM Applications**
+- 🧠 Interested in **Backend Engineering, Distributed Systems, AI/ML & RAG**
+- ⚙️ Working with **TypeScript, Node.js/NestJS, Python, PostgreSQL, Redis & Docker**
 - 📫 Reach me at: **[nitinsingh.iitp@gmail.com](mailto:nitinsingh.iitp@gmail.com)**
-- 📄 Resume → <a href="https://drive.google.com/file/d/1upXwrAW5_Un8hXqJy6ohaijT4uFmCtQH/view?usp=drive_link" target="_blank">Click Here</a>
-
+- 📄 Resume → <a href="YOUR_RESUME_LINK" target="_blank">Click Here</a>
 
 ### 🔗 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/nitinsingh0307/"><img width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"/></a>
-  <a href="https://x.com/nitin_folk"><img width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png"/></a>
-  <a href="https://leetcode.com/u/nitinsingh33/"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a>
-  <a href="https://www.hackerrank.com/profile/nitinsingh33"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/></a>
+  <a href="https://www.linkedin.com/in/nitinsingh0307/">
+    <img width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"/>
+  </a>
+  <a href="https://x.com/nitin_folk">
+    <img width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png"/>
+  </a>
+  <a href="https://leetcode.com/u/nitinsingh33/">
+    <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nitinsingh33">
+    <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+  </a>
 </p>
-
-
 
 ## 🛠 Tech Stack
 
 ### Programming Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend Development
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Data Analysis & Machine Learning
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=000000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**LLM / AI:** RAG · LangChain · LangGraph · LLM APIs · Vector Databases
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Tools
+
+Postman · Swagger · GitHub Actions · REST APIs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 
@@ -85,7 +96,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinsingh33&theme=dark"/>
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
